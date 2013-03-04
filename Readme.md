@@ -12,5 +12,5 @@ This is the [Crush + Lovely](http://crushlovely.com) fork of the [Table Helper](
 In your `Gemfile`, do the following:
 
 ```
-gem 'crushlovely-table_helper', :require => 'table_helper'
+gem 'crushlovely_table_helper', :require => 'table_helper'
 ```
